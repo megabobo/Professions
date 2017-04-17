@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Database</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_age">Enter Age</string>
+
+    <array name = "professions">
+      <item>Investor</item>
+        <item>Contractor</item>
+        <item>Student</item>
+        <item>Engineer</item>
+    </array>
+</resources>
